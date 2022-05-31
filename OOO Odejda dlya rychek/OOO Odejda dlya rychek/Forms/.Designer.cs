@@ -136,7 +136,7 @@
             // sortirovka
             // 
             this.sortirovka.FormattingEnabled = true;
-            this.sortirovka.Location = new System.Drawing.Point(511, 30);
+            this.sortirovka.Location = new System.Drawing.Point(510, 30);
             this.sortirovka.Name = "sortirovka";
             this.sortirovka.Size = new System.Drawing.Size(201, 24);
             this.sortirovka.TabIndex = 1;
