@@ -1,0 +1,14 @@
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\bin\Debug\OOO Odejda dlya rychek.exe.config
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\bin\Debug\OOO Odejda dlya rychek.exe
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\bin\Debug\OOO Odejda dlya rychek.pdb
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.csproj.AssemblyReference.cache
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO_Odejda_dlya_rychek.Form1.resources
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO_Odejda_dlya_rychek.Properties.Resources.resources
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.csproj.GenerateResource.cache
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.exe
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.pdb
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO Odejda dlya rychek.g.resources
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO_Odejda_dlya_rychek.Forms.AddMaterial.resources
+C:\Users\Арсений\Source\Repos\exam\OOO Odejda dlya rychek\OOO Odejda dlya rychek\obj\Debug\OOO_Odejda_dlya_rychek.Forms.EditMaterial.resources
